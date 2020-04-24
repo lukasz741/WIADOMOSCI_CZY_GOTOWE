@@ -1,2 +1,2 @@
-# NAUKA
-nauka
+# LEARNING
+learning
